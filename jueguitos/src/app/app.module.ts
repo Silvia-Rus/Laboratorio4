@@ -20,7 +20,7 @@ const appRoutes:Routes=[
   {path:'login', component:LoginComponent},
   {path:'quiensoy', component:QuienSoyComponent},
   {path: 'jueguitos', component:JuegosComponent},
-  {path: 'recuperarpaswword', component:RecuperarPasswordComponent},
+  {path: 'recuperarpassword', component:RecuperarPasswordComponent},
   {path: 'registro', component:RegistroComponent}
 
 ]
